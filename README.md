@@ -1,2 +1,3 @@
-# slack_wordcloud
-Created wordcloud from the slack messages from my work.
+ブログ記事はこちらから確認できます。
+
+https://knowledge.insight-lab.co.jp/sisense/wordcloud
